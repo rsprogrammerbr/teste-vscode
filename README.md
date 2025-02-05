@@ -29,7 +29,7 @@ Este repositório está aberto para contribuições da comunidade! Caso queira c
 5. 🔄 Abra um Pull Request.
 
 ## Autor 👨‍💻
-**Rodrigo Silva (rsprogrammerbr)** - [GitHub](https://github.com/rsprogrammerbr)
+**(rsprogrammerbr)** - [GitHub](https://github.com/rsprogrammerbr)
 
 Sinta-se à vontade para explorar e contribuir com melhorias para a comunidade! 🚀🔥
 
