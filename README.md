@@ -9,7 +9,6 @@ Este repositório foi criado para testar funcionalidades do Visual Studio Code, 
 O projeto pode incluir códigos em diferentes linguagens, como:
 
 - **JavaScript** 🟡: Para exploração de scripts e desenvolvimento web.
-- **Python** 🐍: Para scripts automatizados e testes de execução.
 - **HTML & CSS** 🎨: Para estruturação e estilização de páginas web.
 - **Markdown** 📝: Utilizado na documentação do repositório e edição do README.
 
